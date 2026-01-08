@@ -30,6 +30,7 @@ UI is a thin client (no business logic)
 All orchestration flows through main.py
 RAG logic is isolated and reusable
 Data ingestion is incremental and safe
+
 📂 Project Structure
 
 enterprise-rag-assistant/
